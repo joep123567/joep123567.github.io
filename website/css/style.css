@@ -1,0 +1,43 @@
+body {
+	background-color:#33FF66;
+}
+
+
+h1 , p {
+	font-family: "Arial" , "Helvatica" , "sans-Serif";
+	text-indent: 10px;
+}
+li {
+display:inline;
+margin-right:20px;
+}
+a {
+	color:#333300;text-decoration: none
+}
+a:hover {
+	color:990000;
+}
+img{
+	float:right;
+	
+}
+div{
+	width: 600px;
+height:100%;
+	margin-left:auto; 
+	margin-right: auto;
+	border-radius:5px;
+	background-color:#339933;
+}
+h1 , p{
+	font-family: "Arial" , "Helvatica" , "Sans-serif";
+	text-indent:10px;
+	padding:0px 10px 0px 10px;
+	
+}
+ul{
+	float:left;
+	width:560px;
+	color:coral;
+	
+}
